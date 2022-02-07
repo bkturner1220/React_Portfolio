@@ -46,7 +46,7 @@
    <a href="https://github.com/bkturner1220/React_Portfolio" target="_blank">https://github.com/bkturner1220/React_Portfolio</a>
 
 ## Heroku Deployment URL 🔗 <a name='heroku'></a>
-   <a href="https://git.heroku.com/" target="_blank">https://git.heroku.com/</a>
+   <a href="https://git.heroku.com/secret-savannah-22428.git" target="_blank">https://git.heroku.com/secret-savannah-22428.git</a>
      
 ## Contact Information <a name='contact'></a>
    Github Username: [bkturner1220](https://github.com/bkturner1220/)<br>
